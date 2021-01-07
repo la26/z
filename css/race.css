@@ -1254,7 +1254,7 @@ em {
 }
 
 .footer-p::after {
-  content: "Made in Drake's backyard";
+  content: "Made by me";
   position: relative;
   display: block;
   margin-top: 1.5%;
